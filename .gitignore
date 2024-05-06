@@ -1,0 +1,10 @@
+.bsp/
+.scala-build/
+obj_dir/
+*.v
+.vscode/
+project/
+.bloop/
+target/
+.metals/
+test_run_dir/
